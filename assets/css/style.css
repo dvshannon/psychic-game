@@ -1,0 +1,26 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+h1 {
+    background: #0E0A19;
+    color: #E7E0E0;
+    padding: 20px;
+    font-size: 1.3rem;
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/1111597/pexels-photo-1111597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    opacity: 0.6;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-attachment: fixed;
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+div {
+    background: #A33ACB;
+}
